@@ -1,4 +1,3 @@
 # Mi primer repositorio
 
-Repositorio creado para almacenar los archivos sobre mi futura wiki de BloodBorne
-
+Repositorio creado para almacenar mi futura wiki del reconocido vieojuego "BloodBorne"
